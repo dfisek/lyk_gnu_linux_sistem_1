@@ -1,31 +1,32 @@
-h1. Özgür Yazılım Felsefesi'ne Giriş
+### Özgür Yazılım Felsefesi'ne Giriş
 
 
-h1. Komut Satırı (Kabuk) ve Temel Komutlar
+### Komut Satırı (Kabuk) ve Temel Komutlar
 
 
-h1. GNU/Linux İşletim Sisteminin Yapısı
+### GNU/Linux İşletim Sisteminin Yapısı
 
 
-h1. Açılış Sistemi
+
+### Açılış Sistemi
 
 
-h1. Kullanıcı Yönetimi
+### Kullanıcı Yönetimi
 
 
-h1. Paket Yönetim Sistemi
+### Paket Yönetim Sistemi
 
 
-h1. Zamanlanmış Görevler
+### Zamanlanmış Görevler
 
 
-h1. Sistem Kayıtları
+### Sistem Kayıtları
 
 
-h1. Temel TCP/IP Bilgisi ve Ağ Yönetimi
+### Temel TCP/IP Bilgisi ve Ağ Yönetimi
 
 
-h1. DNS Teknolojisine Giriş
+### DNS Teknolojisine Giriş
 
 * DNS sisteminin çalışması
  * Ağaç yapısı (tr -> org -> linux -> kamp)
@@ -37,7 +38,7 @@ h1. DNS Teknolojisine Giriş
  * Özyinelemeli (recursive) sorgu
 * SOA kaydı (TTL, Refresh, Retry, Expire, Minimum)
 
-h1. Güvenli Uzaktan Erişim
+### Güvenli Uzaktan Erişim
 
 * SSH'a Giriş
  * Doğrulama yöntemleri (parola, anahtar, vs)
@@ -53,14 +54,14 @@ h1. Güvenli Uzaktan Erişim
 * ssh ile X11 tünelleme
 * ssh istemcisinin ~/.config dosyasının yapılandırılması
 
-h1. Yedekleme ve Arşivleme
+### Yedekleme ve Arşivleme
 
 * rsync (ssh üzerinden) ile dizin eşitlenmesi
 * tar ile arşivleme
 * gzip, xz, bzip2 ve benzeri sıkıştırma yöntemleri
 * Yedekleme yazılımlarının tantılması (Bacula, rdiff-backup, vs)
 
-h1. Web Teknolojisine Giriş
+### Web Teknolojisine Giriş
 
 * HTTP Protokolü ve World-Wide-Web (WWW)
 * İstemci (Firefox, Chromium, vs) ve Sunucu (Apache, Nginx, vs) Yazılımları
@@ -73,7 +74,7 @@ h1. Web Teknolojisine Giriş
 * HTTP Doğrulama
 * HTTP Durum Kodları
 
-h1. Veritabanı Servislerine Giriş
+### Veritabanı Servislerine Giriş
 
 * İlişkisel veritabanı modeli
  * Veritabanı, tablo, kolon, satır kavramı
@@ -82,7 +83,7 @@ h1. Veritabanı Servislerine Giriş
 * SQL'e Giriş (SELECT, INSERT, UPDATE, DELETE sorguları)
 * İlişkisel olmayan veritabanları tanıtımı
 
-h1. Apache/PHP/MySQL Kurulumu ve Örnek Bir Uygulamanın Koşturulması
+### Apache/PHP/MySQL Kurulumu ve Örnek Bir Uygulamanın Koşturulması
 
 * Apache/PHP/MySQL'in paket yöneticisinden kurulumu
 * phpMyAdmin web arayüzünün kurulumu
@@ -91,7 +92,7 @@ h1. Apache/PHP/MySQL Kurulumu ve Örnek Bir Uygulamanın Koşturulması
  * Apache'de gerekli ayarların düzenlenmesi (AllowOverride, vs)
 * Kendi sunucunuza kurabileceğiniz yaygın uygulamalar (https://github.com/Kickball/awesome-selfhosted)
 
-h1. Bash Betik (Script) Yazımına Giriş
+### Bash Betik (Script) Yazımına Giriş
 
 * Değişken (global / yerel)
 * Temel kontrol yapıları (if, for, while, ve case) ve karşılaştırma operatörleri
